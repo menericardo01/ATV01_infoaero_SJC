@@ -1,8 +1,6 @@
 Nome: Ricardo Balarin Meneguel 
 R.A:146820232
 
-TESTE
-
 Respostas:
 Itens
 
@@ -11,10 +9,9 @@ I) Sistema computacional: Velocímetro Digital
     Informações: Placa do carro , Velocidade , cor
 do carro, Modelo do carro e ano 
     Conhecimento: De acordo com a placa de trânsito
-de rodovia x que permite a velocidade máxima de 90 km/h,
- aferir se o carro Gol 1999, no caso 120 km/h
-de acordo com a informação passada , o velocímetro digital
-irá transmitir a central de informações que está !
+de rodovia x, que permite a velocidade máxima de 90 km/h,
+ aferir se o carro Gol 1999 está em velocidade acima do indicado, 
+ no caso a velocidade 120 km/h portanto está acima da velocidade permitida.
 
 II)
 R  82 01010010 
